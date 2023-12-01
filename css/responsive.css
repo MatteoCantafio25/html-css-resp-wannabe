@@ -30,4 +30,16 @@
     .steps .col {
         width: 70%;
     }
+
+    /* Non avevo notato il cambio di colore */
+    .why-us {
+        background-color: #222;
+        padding: 48px 0;
+    }
+
+    .steps,
+    .why-us,
+    .lessons {
+        margin-bottom: 0;
+    }
 }
